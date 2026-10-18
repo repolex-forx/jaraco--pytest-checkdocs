@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jaraco/pytest-checkdocs/commit/356d6718b154e95fbda0b87b9d477a2199a67614",
       "git:hexsha": "356d6718b154e95fbda0b87b9d477a2199a67614",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:22:00.226362+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/pytest-checkdocs/commit/bdc12c6b0e069c6da49fdfbf73e2c119ca1cba00",
