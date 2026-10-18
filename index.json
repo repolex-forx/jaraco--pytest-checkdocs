@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "pytest-checkdocs",
+  "versions": [
+    {
+      "commit": "356d6718b154e95fbda0b87b9d477a2199a67614",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:22:00.226751+00:00"
+    }
+  ]
+}
